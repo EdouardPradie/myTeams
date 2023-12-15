@@ -1,0 +1,3 @@
+login=arthur
+uuid=70df
+subscribed=

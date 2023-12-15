@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/doudou/Archiv/Archiv_tek2/B-NWP-400-BDX-4-1-myteams-guillaume.lebreton/libs/myteams:$LD_LIBRARY_PATH

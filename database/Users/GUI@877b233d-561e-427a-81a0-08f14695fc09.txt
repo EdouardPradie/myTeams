@@ -1,0 +1,3 @@
+login=GUI
+uuid=877b233d-561e-427a-81a0-08f14695fc09
+subscribed=TEAMTEST@32

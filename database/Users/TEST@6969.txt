@@ -1,0 +1,3 @@
+login=TEST
+uuid=6969
+subscribed=
